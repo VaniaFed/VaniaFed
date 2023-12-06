@@ -35,4 +35,7 @@
 ---
 
 [![Активность по языкам](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniafed&langs_count=8&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 ![Статистика](https://github-readme-stats.vercel.app/api?username=vaniafed&theme=default&show_icons=true&locale=ru)
