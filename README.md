@@ -2,7 +2,7 @@
 
 🤝Я открыт для сотрудничества с интересными проектами
 
-📬 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ivan-000000?style=flat&logo=Telegram&logoColor=white)](https://t.me/userforgiveme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iv.fedyakov.@gmail.com)
+📬 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ivan-333333?style=flat&logo=Telegram&logoColor=white)](https://t.me/userforgiveme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iv.fedyakov.@gmail.com)
 
 ---
 
