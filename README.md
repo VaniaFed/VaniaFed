@@ -42,4 +42,4 @@
 
 ---
 
-[![Ivan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaniafed)](https://github.com/anuraghazra/github-readme-stats)
