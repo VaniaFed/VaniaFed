@@ -1,20 +1,14 @@
 # Привет, меня зовут Иван! 👋
 
----
-
 🤝Я открыт для сотрудничества с интересными проектами
 
 ---
 
 📬 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ivan-fc7cf4?style=flat&logo=Telegram&logoColor=white)](https://t.me/userforgiveme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iv.fedyakov.@gmail.com)
 
----
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
----
 
 ## 💻 Технологии:
 
@@ -28,8 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp
 </div>
-
----
 
 ## 🛠 Инструменты:
 
