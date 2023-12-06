@@ -32,4 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
 </div>
 
+<br />
+
 [![Активность по языкам](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniafed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
