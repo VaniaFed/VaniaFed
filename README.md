@@ -42,4 +42,4 @@
 
 ---
 
-[![Ivan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaniafed)](https://github.com/anuraghazra/github-readme-stats)
+[![Активность по языкам](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniafed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
