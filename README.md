@@ -1,12 +1,12 @@
-### Привет, меня зовут Иван! 👋
+# Привет, меня зовут Иван! 👋
 
 ---
 
-###### 🤝Я открыт для сотрудничества с интересными проектами
+🤝Я открыт для сотрудничества с интересными проектами
 
 ---
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ivan-fc7cf4?style=flat&logo=Telegram&logoColor=white)](https://t.me/userforgiveme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iv.fedyakov.@gmail.com)
+📬 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ivan-fc7cf4?style=flat&logo=Telegram&logoColor=white)](https://t.me/userforgiveme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iv.fedyakov.@gmail.com)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Технологии:
+## 💻 Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠 Инструменты:
+## 🛠 Инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp
