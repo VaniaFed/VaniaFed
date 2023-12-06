@@ -2,9 +2,9 @@
 
 🤝Я открыт для сотрудничества с интересными проектами
 
----
-
 📬 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ivan-fc7cf4?style=flat&logo=Telegram&logoColor=white)](https://t.me/userforgiveme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iv.fedyakov.@gmail.com)
+
+---
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -31,7 +31,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
 </div>
-
----
 
 [![Активность по языкам](https://github-readme-stats.vercel.app/api/top-langs/?username=vaniafed&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
